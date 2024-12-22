@@ -1,0 +1,6 @@
+streamlit
+pydantic-ai
+httpx
+logfire
+python-dotenv
+devtools
