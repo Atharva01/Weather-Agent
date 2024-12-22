@@ -11,11 +11,6 @@ An interactive and visually dynamic weather application built with **Streamlit**
 - ⚡ **AI-Driven**: Powered by **Pydantic AI** for intelligent query handling.
 - 🛠️ **Customizable**: Easily extendable for additional features like hourly forecasts or alerts.
 
-## Demo
-
-![App Screenshot](path/to/screenshot.png)  
-*(Replace `path/to/screenshot.png` with an actual screenshot of your app)*
-
 ## Installation
 
 To get started with this project, follow these steps:
