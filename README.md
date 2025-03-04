@@ -17,6 +17,22 @@ To get started with this project, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/weather-agent
+   git clone https://github.com/Atharva01/weather-agent
    cd weather-agent
+   ```
+2. **Create a virtual environment**
+   ```bash
+   python3 -m venv weather
+   cd weather
+   source bin/activate
+   ```
+3. **Install dependencies**
+   ```bash
+   pip3 install -r requirements.txt
+   ```
+4. **Update the OpenAI API Keys in given .env file**
+
+5. **Launch Streamlit app**
+   ```bash
+   streamlit run weather_ui.py
    ```
